@@ -6,6 +6,8 @@
 
 Welcome to the Quiz App! This is a simple web-based quiz application designed to test your knowledge on various topics. Built using HTML, CSS, and JavaScript, the app provides a clean and engaging interface for users to answer questions and receive immediate feedback on their performance.
 
+Visit: **https://nehra-quiz-app.netlify.app/**
+
 ## Features
 
 - **Interactive Quiz**: Answer multiple-choice questions and get instant feedback.
